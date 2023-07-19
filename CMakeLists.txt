@@ -1,4 +1,4 @@
-project(effective-cpp)
+project(png-decoder)
 
 cmake_minimum_required(VERSION 3.15)
 
